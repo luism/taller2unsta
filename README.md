@@ -1,5 +1,7 @@
 # Taller Integrador II
 ## Ingenieria en informatica 
-### UNSTA
+### UNSTA - Universidad Santo Tomas de Aquino
 
-[Github](htts://github.com/luism)
+[Github](https://github.com/luism)
+
+Esto es una prueba.
